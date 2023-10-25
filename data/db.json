@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "title": "read a book",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "buy some sweets",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "eat 2 eggs daily",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "go to school",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "buy some shirts",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "have a drink",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "title": "learn redux",
+      "completed": false,
+      "id": 7
+    }
+  ]
+}
