@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "title": "go to school",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "buy a book",
+      "completed": false,
+      "id": 2
+    }
+  ]
+}
