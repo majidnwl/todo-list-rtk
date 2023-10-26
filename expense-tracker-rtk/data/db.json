@@ -1,0 +1,19 @@
+{
+  "transactions": [
+    {
+      "text": "salary",
+      "amount": "900000",
+      "id": 1
+    },
+    {
+      "text": "eggs",
+      "amount": "-360",
+      "id": 2
+    },
+    {
+      "text": "t-shirt",
+      "amount": "-1000",
+      "id": 3
+    }
+  ]
+}
